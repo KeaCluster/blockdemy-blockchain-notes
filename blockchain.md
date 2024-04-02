@@ -27,7 +27,11 @@ With this inclusion and control,
 exchanges were turned then into plastic money, and then electronic.
 
 - What backs the dollar?
+
   - Nothing so far.
+
+- [Wanna check how much the _US_ owes?](https://www.imf.org/en/Countries/USA)
+- [Check again](https://www.usdebtclock.org)
 
 During the pandemic,
 the solution thought after to solve the impending crisis was to _print_ more money.
@@ -48,3 +52,38 @@ the solution thought after to solve the impending crisis was to _print_ more mon
   - Lack of location coincidence
 - All three previous solved by bitcoin?
   - Apparently yes
+
+So what's cool about BC?
+
+- Indirectly exchange direct money.
+
+#### Money classification
+
+- Functions
+  - As a way of exchange
+  - As a value deposit
+  - As a _countable_ unit
+- How
+
+  - Merchandise (physical things such as diamonds, gold bar, salt, _cacao and stones_)
+  - Metallic coin
+  - Paper money
+  - Debt
+  - FIAT (backed by law)
+  - Electronic
+
+#### Regulated money
+
+> [!NOTE]
+> This section is missing
+
+| Redeemable | Non-redeemable                                                        |
+| ---------- | --------------------------------------------------------------------- |
+| Item1.1    | Backed by the government's debt                                       |
+| Item1.2    | The govt can emit decrees to force the population into using the coin |
+
+### Web
+
+#### Web 1.0 & 2.0
+
+- Basically exchanged information from one node towards another towards another
