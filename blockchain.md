@@ -1,5 +1,21 @@
 # Blockchain
 
+<!--toc:start-->
+
+- [Blockchain](#blockchain)
+  - [About](#about)
+  - [Part 1](#part-1)
+    - [History of exchange](#history-of-exchange)
+      - [Barter](#barter)
+      - [Barter and bitcoin](#barter-and-bitcoin)
+      - [Money How](#money-how)
+      - [Regulated money](#regulated-money)
+    - [Web](#web)
+    - [Double transaction](#double-transaction)
+    - [Intermediaries](#intermediaries)
+    - [Satoshi Nakamoto](#satoshi-nakamoto)
+    <!--toc:end-->
+
 ## About
 
 Blockchain-focused section of the course
@@ -57,14 +73,13 @@ So what's cool about BC?
 
 - Indirectly exchange direct money.
 
-#### Money classification
+#### Money How
 
 - Functions
   - As a way of exchange
   - As a value deposit
   - As a _countable_ unit
 - How
-
   - Merchandise (physical things such as diamonds, gold bar, salt, _cacao and stones_)
   - Metallic coin
   - Paper money
@@ -103,7 +118,7 @@ for multiple transactions by and through the same person.
   - Government
   - Large credit card companies
 
-#### Intermediaries
+### Intermediaries
 
 Decent at their job but:
 
@@ -115,7 +130,7 @@ Decent at their job but:
 | Comissions  | High in costs                                         |
 | Info        | No privacy or access to the information               |
 
-#### Who
+#### Satoshi Nakamoto
 
 Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protocol
 
