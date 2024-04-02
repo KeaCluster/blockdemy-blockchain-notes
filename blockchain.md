@@ -84,6 +84,45 @@ So what's cool about BC?
 
 ### Web
 
-#### Web 1.0 & 2.0
+- Web 1.0 & 2.0
+  - Basically exchanged information from one node towards another towards another
+- Web 3.0
+  - Exchange of value instead of information
+    - Art, currency.
+    - Single transaction currency.
 
-- Basically exchanged information from one node towards another towards another
+### Double transaction
+
+Double transaction is the issue where certain $100 dollars can be duplicated
+for multiple transactions by and through the same person.
+
+- Bitcoin
+  - It solves the issue of double transaction.
+  - A single asset can't be sold or bartered twice.
+- Traditional solutions
+  - Banks as intermediaries
+  - Large social media companies
+  - Government
+  - Large credit card companies
+
+#### Intermediaries
+
+Decent at their job
+
+| Concept     | Description                                           |
+| ----------- | ----------------------------------------------------- |
+| Centralized | Hackable and corruptable                              |
+| Exclusion   | Exclude millions from the global economy              |
+| Slow        | An email takes seconds, an electronic transfer - days |
+| Comissions  | High in costs                                         |
+| Info        | No privacy or access to the information               |
+
+#### Who
+
+Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protocol
+
+- Bitcoin white paper:
+  - Decentralized
+  - No intermediaries
+  - Global
+  - Digital
