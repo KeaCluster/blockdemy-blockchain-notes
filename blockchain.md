@@ -74,18 +74,16 @@ So what's cool about BC?
 
 #### Regulated money
 
-> [!NOTE]
-> This section is missing
-
-| Redeemable | Non-redeemable                                                        |
-| ---------- | --------------------------------------------------------------------- |
-| Item1.1    | Backed by the government's debt                                       |
-| Item1.2    | The govt can emit decrees to force the population into using the coin |
+| Redeemable                                                              | Non-redeemable                                                        |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Backed by metals                                                        | Backed by the government's debt                                       |
+| The govt only assumes the responsibility of holding the physical units. | The govt can emit decrees to force the population into using the coin |
 
 ### Web
 
 - Web 1.0 & 2.0
   - Basically exchanged information from one node towards another towards another
+  - Web, DOCS, PDFs, Email, PPT, Pics
 - Web 3.0
   - Exchange of value instead of information
     - Art, currency.
@@ -107,7 +105,7 @@ for multiple transactions by and through the same person.
 
 #### Intermediaries
 
-Decent at their job
+Decent at their job but:
 
 | Concept     | Description                                           |
 | ----------- | ----------------------------------------------------- |
