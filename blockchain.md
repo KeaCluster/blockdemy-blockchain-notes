@@ -14,6 +14,7 @@
     - [Double transaction](#double-transaction)
     - [Intermediaries](#intermediaries)
     - [Satoshi Nakamoto](#satoshi-nakamoto)
+  - Part 2
     <!--toc:end-->
 
 ## About
@@ -107,7 +108,7 @@ So what's cool about BC?
 ### Double transaction
 
 Double transaction is the issue where certain $100 dollars can be duplicated
-for multiple transactions by and through the same person.
+for multiple transactions by and through the same person. Basically unregulated.
 
 - Bitcoin
   - It solves the issue of double transaction.
@@ -139,3 +140,44 @@ Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protoco
   - No intermediaries
   - Global
   - Digital
+
+## Part 2
+
+### Basics
+
+#### About bitcoin
+
+- Distributed & decentralized.
+- Only 21 million of bitcoins will ever be emitted.
+- Satoshi Nakamoto (whoever he/she/they is/are) owns a million of those.
+- Currently 19.6 million coins are in circulation.
+  - Every 4 years more btc are pushed out into the blockchain
+  - The qty of btc pushed out is **halved** by each iteration.
+  - By 2040, there will be no more full btc pushed out as the 21 million will be out.
+- Not a pyramid scheme but similar (lol)
+  - Decentralized so basically no one at the top
+  - It's based on maket-driven value instead of recruitment.
+  - Blockchain
+  - Self-regulated
+
+#### About blockchain
+
+- Blocks like in minecraft
+- Generated every 10 minutes
+- Holds transactions info
+- Can be trusted
+  - **Can be traced**
+  - Is liquid
+- Has governance
+
+> The history is related into the Cypherpunk movement.
+> Check out the movement's timeline
+
+#### About mining
+
+Basically whenever you want bitcoins there's only two options to get them:
+
+- Mining
+- Buy from another person that already owns btc
+
+This results in very specific results whenever someone is trading with btc.
