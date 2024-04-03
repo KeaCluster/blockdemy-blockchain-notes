@@ -151,9 +151,9 @@ Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protoco
 - Only 21 million of bitcoins will ever be emitted.
 - Satoshi Nakamoto (whoever he/she/they is/are) owns a million of those.
 - Currently 19.6 million coins are in circulation.
-  - Every 4 years more btc are pushed out into the blockchain
+  - Every 4 years, more btc are pushed out into the blockchain
   - The qty of btc pushed out is **halved** by each iteration.
-  - By 2040, there will be no more full btc pushed out as the 21 million will be out.
+  - By 2140, there will be no more full btc pushed out as the 21 million will be out.
 - Not a pyramid scheme but similar (lol)
   - Decentralized so basically no one at the top
   - It's based on maket-driven value instead of recruitment.
@@ -180,4 +180,5 @@ Basically whenever you want bitcoins there's only two options to get them:
 - Mining
 - Buy from another person that already owns btc
 
-This results in very specific results whenever someone is trading with btc.
+This results in very specific outcomes whenever someone is trading with btc.
+No longer profitable due to the amount of btc in each block.
