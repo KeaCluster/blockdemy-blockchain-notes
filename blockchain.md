@@ -13,9 +13,18 @@
     - [Web](#web)
     - [Double transaction](#double-transaction)
     - [Intermediaries](#intermediaries)
-    - [Satoshi Nakamoto](#satoshi-nakamoto)
-  - Part 2
-    <!--toc:end-->
+      - [Satoshi Nakamoto](#satoshi-nakamoto)
+  - [Part 2](#part-2)
+    - [Basics](#basics)
+      - [About bitcoin](#about-bitcoin)
+      - [About blockchain](#about-blockchain)
+      - [About mining](#about-mining)
+  - [Part 3](#part-3)
+    - [Blockchain Framework](#blockchain-framework)
+      - [Exchange platforms](#exchange-platforms)
+      - [Order book](#order-book)
+
+<!--toc:end-->
 
 ## About
 
@@ -174,9 +183,9 @@ Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protoco
   - Is liquid
 - Has governance
 
-> The history is related into the [Cypherpunk movement](https://nakamoto.com/the-cypherpunks/).
+> The history is related into the [Cypherpunk movement](https://nakamoto.com/the-cypherpunks/)
 
-![Cypherpunks Movement](./img/cypherpunk_wired.jpg)
+![Cypherpunks](./img/cypherpunk_wired.jpg)
 
 #### About mining
 
@@ -187,3 +196,43 @@ Basically whenever you want bitcoins there's only two options to get them:
 
 This results in very specific outcomes whenever someone is trading with btc.
 No longer profitable due to the amount of btc in each block.
+
+## Part 3
+
+### Blockchain Framework
+
+#### Exchange platforms
+
+This refers to a digital marketplace where participants can:
+buy, sell, and trade cryptocurrencies and other digital assets like tokens
+and non-fungible tokens (NFTs).
+
+Basically an exchange marketplace for cryptocurrencies:
+
+- Immediate liquidation
+  - They make transactions valid in an instant.
+- Others
+  - Certain operations of the financial world can take months to fulfill
+
+There are certain classifications for platforms:
+
+- **Classifications**
+
+  - Cryptocurrencies, Actions or Stocks, basic products and foreign exchange market (FOREX)
+
+- **Exchanges**
+  - OTC (Over the Counter): Dealer &rarr; Broker &rarr; Dealer
+  - Centralized (Traditional): Dealer &rarr; Business &rarr; Dealer
+  - Decentralized (dEX): Dealer &rarr; Smart Contract &rarr; Dealer
+
+#### Order book
+
+- **Bid Orders**: Orders where traders are looking to **buy** a cryptocurrency.
+- **Ask Orders**: Orders where traders are looking to **sell** a cryptocurrency.
+- **Price Levels**: Each order is placed at a specific price level. The difference is called a _spread_.
+- **Quantity**: The amount of cryptocurrency that buyers want to buy and sellers want to sell.
+
+> So basically when someone wants to sell they place a bid.
+> When someone wants to buy they place a bid.
+> If (when) they match, the trade is fulfilled.
+> If they don't, the trade won't happen until the market levels to **both seller and buyer**.
