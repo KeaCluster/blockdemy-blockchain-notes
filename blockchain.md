@@ -236,3 +236,16 @@ There are certain classifications for platforms:
 > When someone wants to buy they place a bid.
 > If (when) they match, the trade is fulfilled.
 > If they don't, the trade won't happen until the market levels to **both seller and buyer**.
+> All of this goes in the order books.
+
+- Types of orders
+  - Market: At the moment with the highest price in the market
+  - Limited: Sets up an expected value and can take time
+
+When making _orders_:
+
+| Maker                       | Taker               |
+| --------------------------- | ------------------- |
+| Until the price matches     | Automatic execution |
+| Lower comission             | Higher comission    |
+| Creates volume or liquidity | Consumes liquidity  |
