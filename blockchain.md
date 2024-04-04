@@ -43,12 +43,11 @@ and are not backed by a physical commodity such as gold.
 With this inclusion and control,
 exchanges were turned then into plastic money, and then electronic.
 
-- What backs the dollar?
+> What backs the dollar?
+> Nothing so far.
 
-  - Nothing so far.
-
-- [Wanna check how much the _US_ owes?](https://www.imf.org/en/Countries/USA)
-- [Check again](https://www.usdebtclock.org)
+[Wanna check how much the _US_ owes?](https://www.imf.org/en/Countries/USA)
+[Check again](https://www.usdebtclock.org)
 
 During the pandemic,
 the solution thought after to solve the impending crisis was to _print_ more money.
@@ -155,10 +154,15 @@ Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protoco
   - The qty of btc pushed out is **halved** by each iteration.
   - By 2140, there will be no more full btc pushed out as the 21 million will be out.
 - Not a pyramid scheme but similar (lol)
+
   - Decentralized so basically no one at the top
   - It's based on maket-driven value instead of recruitment.
   - Blockchain
   - Self-regulated
+
+- History of btc:
+
+![Timeline of btc](./img/btc_prehistory.jpeg)
 
 #### About blockchain
 
@@ -170,8 +174,9 @@ Satoshi Nakamoto created the **Bitcoin: peer-to-peer electronic system** protoco
   - Is liquid
 - Has governance
 
-> The history is related into the Cypherpunk movement.
-> Check out the movement's timeline
+> The history is related into the [Cypherpunk movement](https://nakamoto.com/the-cypherpunks/).
+
+![Cypherpunks Movement](./img/cypherpunk_wired.jpg)
 
 #### About mining
 
