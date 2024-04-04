@@ -232,8 +232,8 @@ There are certain classifications for platforms:
 - **Price Levels**: Each order is placed at a specific price level. The difference is called a _spread_.
 - **Quantity**: The amount of cryptocurrency that buyers want to buy and sellers want to sell.
 
-> So basically when someone wants to sell they place a bid.
-> When someone wants to buy they place a bid.
+> So basically when someone wants to sell, they place a bid.
+> When someone wants to buy, they place a bid.
 > If (when) they match, the trade is fulfilled.
 > If they don't, the trade won't happen until the market levels to **both seller and buyer**.
 > All of this goes in the order books.
@@ -249,3 +249,26 @@ When making _orders_:
 | Until the price matches     | Automatic execution |
 | Lower comission             | Higher comission    |
 | Creates volume or liquidity | Consumes liquidity  |
+
+#### Wallets
+
+They're used to store a collection of **private keys**.
+These keys are used to access bitcoin addresses and allow you to spend or sell btc.
+The wallet can be protected through encryption with a password or other security methods.
+
+| Wallet          | Access                        | Security                         |
+| --------------- | ----------------------------- | -------------------------------- |
+| Web Wallet      | Web platforms                 | The platform has control         |
+| Desktop Wallet  | Personal computers            | Full control. Personal security  |
+| Mobile Wallet   | Mobile devices                | Same as Web-based                |
+| Hardware Wallet | Physical offline cold devices | Full control. Personal security. |
+| Paper Wallet    | Physical documents            | Secure, but can be damaged       |
+
+Some good practices:
+
+- Backup
+- Never share the private key
+- 2FA
+- Encrypt your wallet
+- Not your keys, not your crypto
+- Distribute the risk
