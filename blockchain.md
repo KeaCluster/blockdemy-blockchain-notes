@@ -272,3 +272,34 @@ Some good practices:
 - Encrypt your wallet
 - Not your keys, not your crypto
 - Distribute the risk
+
+## Part 4
+
+### Blocks
+
+They're units if digital ledger tech. Digital containers of data.
+They contain transaction records. They're linked through `hash` crypto techniques.
+i.e. blocks.
+
+Basically a `.json`.
+They contain a header and a body.
+
+- Header contains info such as
+  - Version of the block
+  - The hash of the prev block
+  - The Merkle root
+  - A timestamp
+  - A target
+  - A nonce
+- The body contains
+  - Transaction data. Details of the transfer between users.
+
+To check blocks' info: [BlockChair](https://www.blockchair.com)
+
+The fact that a block is interconnected with all previous,
+and in a way with all to follow, makes them virtually impossible to modify.
+This gives blockchain blocks immutability.
+
+### Nodes
+
+Considered crucial components of the network's functionality and integrity.
