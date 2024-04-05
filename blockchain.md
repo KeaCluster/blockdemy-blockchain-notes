@@ -23,6 +23,13 @@
     - [Blockchain Framework](#blockchain-framework)
       - [Exchange platforms](#exchange-platforms)
       - [Order book](#order-book)
+      - [Wallets](#wallets)
+  - [Part 4](#part-4)
+    - [Blocks](#blocks)
+    - [Nodes](#nodes)
+    - [Encription](#encription)
+      - [Encription concepts](#encription-concepts)
+      - [Types of algorithms](#types-of-algorithms)
 
 <!--toc:end-->
 
@@ -312,3 +319,28 @@ Their role is to **validate and relay transactions**.
 This ensures security and reliability as they're decentralized.
 Nodes form the backbone of blockchain networks,
 ensuring security, reliability and continuous operation.
+
+### Encription
+
+#### Encription concepts
+
+What for?
+
+- Confidential
+  - Secure the contents
+- Auth
+  - Verify the origin
+- Integrity
+  - Prove the content hasn't changed
+- Non-deniable
+  - Avoid the receiver to deny the message.
+
+| **Plaintext Characteristics**                                                                                                | **Encryption Algorithm**                                                                                                                              | **Encrypted Text Characteristics**                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Simple text format**: Readable and understandable by humans. Contains no special formatting.                               | **AES (Advanced Encryption Standard)**: A symmetric key algorithm widely used for secure data encryption.                                             | **Complex alphanumeric string**: Looks like random data, making it impossible to decipher without the correct key.                         |
+| **Structured data**: Can include formatted documents, such as spreadsheets or HTML files, containing both text and metadata. | **RSA (Rivest-Shamir-Adleman)**: An asymmetric algorithm that uses a pair of keys, making it suitable for secure data transmission over the internet. | **Scrambled format**: Alters the structured data in a way that the original structure is not discernable without decryption.               |
+| **Large data volumes**: Bulk data that requires efficient encryption processing to maintain performance.                     | **Blowfish**: A symmetric block cipher designed for speed and effectiveness, especially in hardware implementations.                                  | **Segmented and uniform blocks**: Encrypted data is divided into uniform blocks, ensuring efficient and secure handling of large datasets. |
+
+| |
+
+#### Types of algorithms
