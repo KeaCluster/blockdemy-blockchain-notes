@@ -303,3 +303,12 @@ This gives blockchain blocks immutability.
 ### Nodes
 
 Considered crucial components of the network's functionality and integrity.
+They're individual points of communication within the blockchain network.
+They possess a unique `IP`.
+Some are heavy, containing full copy of the blockchain ledger.
+Others are light, containing essential information required for verification.
+
+Their role is to **validate and relay transactions**.
+This ensures security and reliability as they're decentralized.
+Nodes form the backbone of blockchain networks,
+ensuring security, reliability and continuous operation.
