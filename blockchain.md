@@ -320,9 +320,9 @@ This ensures security and reliability as they're decentralized.
 Nodes form the backbone of blockchain networks,
 ensuring security, reliability and continuous operation.
 
-### Encription
+### Encryption
 
-#### Encription concepts
+#### Encryption concepts
 
 What for?
 
@@ -343,4 +343,14 @@ What for?
 
 | |
 
-#### Types of algorithms
+#### Types of algorithms used in encryption
+
+There are two:
+
+- Unidirectional
+  - HASH
+- Bidirectional
+  - Symmetric cypher
+  - Asymmetric cypher
+
+## Part 5
