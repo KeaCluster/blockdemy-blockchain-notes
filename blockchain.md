@@ -27,11 +27,11 @@
   - [Part 4](#part-4)
     - [Blocks](#blocks)
     - [Nodes](#nodes)
-    - [Encription](#encription)
-      - [Encription concepts](#encription-concepts)
-      - [Types of algorithms](#types-of-algorithms)
-
-<!--toc:end-->
+    - [Encryption](#encryption)
+      - [Encryption concepts](#encryption-concepts)
+      - [Types of algorithms used in encryption](#types-of-algorithms-used-in-encryption)
+  - [Part 5](#part-5) - [Asymmetric cryptography](#asymmetric-cryptography) - [Consensus protocol](#consensus-protocol) - [Types of consensus protocols](#types-of-consensus-protocols)
+  <!--toc:end-->
 
 ## About
 
@@ -354,3 +354,46 @@ There are two:
   - Asymmetric cypher
 
 ## Part 5
+
+### Asymmetric cryptography
+
+Also known as _public key cryptography_,
+is a traditional foundational element of blockchain tech.
+It ensures security and integrity of the transaction being made on networks such as BTC and ETH.
+This system employs two keys:
+
+- Private key: Kept in secret by the owner
+  - Used to validate signatures and encrypt data.
+- Public key: Shared publicly through the network.
+  - Used to sign messages and decrypt data.
+
+In blockchain applications, this type of encryption is used for transactions.
+It helps maintain privacy of the transaction without revealing identities.
+Transactions and identities are instead verified through digital signatures.
+A User signs a transaction with their **private key**,
+and the network valdiates this signature with the public key.
+Digital signatures are analogous to real-world signatures.
+
+### Consensus protocol
+
+How can we make sure the network is free of censorship?
+
+This basically refers to the set of rules and mechanisms that allow all nodes in the network to agree on the validity of transactions and the current state of the distributed ledger.
+It ensures _security, consistency, and decentralization._
+An agreement like this is crucial for a trustless system where no single node owns and/or controls the entire network.
+Every participant has an equal say over the validation process.
+
+#### Types of consensus protocols
+
+- **Proof of Work (PoW)**
+  - Involves nodes competing to solve complex mathematical puzzles
+  - The first that solves them is rewarded by a block of transactions
+  - Used in BTC
+- **Proof of Stake (PoS)**
+  - Selects validators based on the number of coins they hold and are willing to _stake_
+  - More energy-efficient compared to PoW
+- **Proof of Authority (PoA)**
+  - Suited for private blockchains
+  - Validators stake their reputation instead of tokens.
+- **Proof of Coverage (PoC)**
+  - Verify network coverage through radio waves.
