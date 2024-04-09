@@ -30,8 +30,12 @@
     - [Encryption](#encryption)
       - [Encryption concepts](#encryption-concepts)
       - [Types of algorithms used in encryption](#types-of-algorithms-used-in-encryption)
-  - [Part 5](#part-5) - [Asymmetric cryptography](#asymmetric-cryptography) - [Consensus protocol](#consensus-protocol) - [Types of consensus protocols](#types-of-consensus-protocols)
-  <!--toc:end-->
+  - [Part 5](#part-5)
+    - [Asymmetric cryptography](#asymmetric-cryptography)
+    - [Consensus protocol](#consensus-protocol)
+      - [Types of consensus protocols](#types-of-consensus-protocols)
+
+<!--toc:end-->
 
 ## About
 
@@ -397,3 +401,31 @@ Every participant has an equal say over the validation process.
   - Validators stake their reputation instead of tokens.
 - **Proof of Coverage (PoC)**
   - Verify network coverage through radio waves.
+
+## Part 6
+
+### Smart contracts
+
+Basically a computer program that run **on** a blockchain.
+They execute automatically predefined actions when certain conditions are met.
+They're stored digitally on a blockchain and make certain processes faster,
+reducing the possibility of manual errors or fraud due to their lack of intermediaries.
+
+Basically a conditional-focused program.
+Smart contracts to execute on a blockchain can be written and run with programs like [Solidity](https://soliditylang.org/).
+Every smart contract on a blockchain is visible for everyone else.
+Once a smart contract is on the blockchain, they can't be edited or modified.
+Some characteristics are:
+
+- Free of censorship
+- Decentralized
+- Runs 24/7
+- Native to their cryptocurrency
+- Immutable
+
+### Ethereum
+
+- An internet where currency and payments are _integrated_
+- An internet where users can own their data and applications
+- An internet where everyone has access to an open financial system
+- An internet built on top of a neutral and open infrastructure without central ownership
