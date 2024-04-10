@@ -34,8 +34,13 @@
     - [Asymmetric cryptography](#asymmetric-cryptography)
     - [Consensus protocol](#consensus-protocol)
       - [Types of consensus protocols](#types-of-consensus-protocols)
-
-<!--toc:end-->
+  - [Part 6](#part-6)
+    - [Smart contracts](#smart-contracts)
+    - [Ethereum](#ethereum)
+      - [Ether](#ether)
+      - [Gas](#gas)
+  - [Part 7](#part-7) - [DApps](#dapps)
+  <!--toc:end-->
 
 ## About
 
@@ -445,6 +450,10 @@ Given each transaction requires computing resources,
 each transaction charges a rate.
 
 Gas refers to the rate required to make a successful transaction inside Ethereum.
+Gas fees are calculated based on the complexity of the transaction or contract executed.
+The total gas fee is calculated by:
+
+- $gasUnits \times gasPricePerUnit = gasFee
 
 ## Part 7
 
@@ -455,3 +464,29 @@ They blend smart contracts and user interfaces.
 They operate on blockchain peer-to-peer networks which allow them to be free from single-entity control.
 Ethereum has been one of the main providers of these applications due to its smart contract capabilities.
 This makes it easy for developers to create DApps from games to financial tools.
+
+### Tokens
+
+Digital representations of any asset or service.
+Kind of a cryptocoin of a decentralized app.
+They adhere to specific standards
+
+| Standard | Type         | Features                                                                                                                                  | Common Use Cases                         |
+| -------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| ERC-20   | Fungible     | Standard interface for tokens, functions for transferring tokens, getting balances, and allowing others to transfer tokens on your behalf | Digital currencies, ICO tokens           |
+| ERC-223  | Fungible     | Improves on ERC-20 to prevent token loss in contracts, more efficient transactions by reducing the steps needed for transfers             | Safer and more efficient token transfers |
+| ERC-721  | Non-Fungible | Unique identifiers for each token, making them irreplaceable, enables ownership and transfer of unique digital items                      | Digital collectibles, unique assets      |
+| ERC-777  | Fungible     | Advanced features over ERC-20, introduces "operators" to manage tokens, backwards compatible with ERC-20                                  | Advanced token economics, DApps          |
+| ERC-1155 | Multi-Token  | A single contract for both fungible and non-fungible tokens, efficient batch transferring, reducing transaction and storage costs         | Gaming, NFT platforms                    |
+
+#### Tokens and Coins
+
+- Coins
+  - Operate on their own independent network
+  - They primarily serve as a medium of exchange similar to traditional fiat currencies
+  - BTC, ETH, DOGE
+- Tokens
+  - They exist on previously predefined blockchain networks
+  - Often associated with specific applications or projects
+  - They're generated through smart contracts making the process accessible.
+  - BAT, UNI.
