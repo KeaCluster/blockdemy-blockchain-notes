@@ -429,3 +429,29 @@ Some characteristics are:
 - An internet where users can own their data and applications
 - An internet where everyone has access to an open financial system
 - An internet built on top of a neutral and open infrastructure without central ownership
+
+#### Ether
+
+Ether is the actual crypto coin of the etherium ecosystem
+
+- Its an economic incentive to verify and execute transactions
+- Any participant that makes a transaction request must offer a certain ammount of ether to the network as reward
+- This reward is given to whomever verifies the transaction, executes it and compromises it inside the blockchain and into the network
+
+#### Gas
+
+This is the unit that measures the amount of computing effort required to process transactions inside the Ethereum network.
+Given each transaction requires computing resources,
+each transaction charges a rate.
+
+Gas refers to the rate required to make a successful transaction inside Ethereum.
+
+## Part 7
+
+### DApps
+
+Decentralized applications that run on a _decentralized network_.
+They blend smart contracts and user interfaces.
+They operate on blockchain peer-to-peer networks which allow them to be free from single-entity control.
+Ethereum has been one of the main providers of these applications due to its smart contract capabilities.
+This makes it easy for developers to create DApps from games to financial tools.
