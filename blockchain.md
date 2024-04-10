@@ -39,8 +39,14 @@
     - [Ethereum](#ethereum)
       - [Ether](#ether)
       - [Gas](#gas)
-  - [Part 7](#part-7) - [DApps](#dapps)
-  <!--toc:end-->
+  - [Part 7](#part-7)
+    - [DApps](#dapps)
+    - [Tokens](#tokens)
+      - [Tokens and Coins](#tokens-and-coins)
+      - [Utility Token or Security](#utility-token-or-security)
+      - [CBDC](#cbdc)
+
+<!--toc:end-->
 
 ## About
 
@@ -490,3 +496,32 @@ They adhere to specific standards
   - Often associated with specific applications or projects
   - They're generated through smart contracts making the process accessible.
   - BAT, UNI.
+
+#### Utility Token or Security
+
+**Utility tokens** are designed to allow access to a blockchain-based service or app.
+They can be used to purchase services or goods, access functionalities, etc.
+Utility tokens are often distributed through **Initial Coin Offerings (ICOs)**,
+They're fundraising methods for projects to generate interest in their platforms.
+
+**Security tokens** are digital representations of ownership in real-world assets.
+They can represent stocks, bonds or real state.
+They're subject to federal sec regulations.
+Holding a token might grant you rights similar to trad securities,
+such as dividends, profit shares, voting rights.
+
+They offer the benefit of increased liquidity, global access,
+and fractional ownership of high-value assets.
+
+#### CBDC
+
+Central Bank Digital Currencies are digital forms of _fiat money_.
+They're issued and regulated by a country's central bank.
+Unlike cryptocurrencies, which are decentralized and operate outside authorities,
+CBDCs are centralized and part of the national monetary policy.
+They're designed to represent a country's fiat currency in digital form.
+This makes transactions more efficient and promote financial inclusion.
+
+CBDCs are built on several tech frameworks including distributed ledger technology (DLT).
+DLT is similar to blockchain, however it involves permissioned blockchain,
+where access is controlled by a central entity, such as a central bank.
