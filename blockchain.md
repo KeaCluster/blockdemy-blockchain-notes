@@ -525,3 +525,30 @@ This makes transactions more efficient and promote financial inclusion.
 CBDCs are built on several tech frameworks including distributed ledger technology (DLT).
 DLT is similar to blockchain, however it involves permissioned blockchain,
 where access is controlled by a central entity, such as a central bank.
+
+## Part 8
+
+### DeFi
+
+Decentralized Finance refers to an ecosystem of financial apps built on blockchain.
+Primarily Ethereum and blockchain networks.
+It aims to recreate traditional financial systems with cryptocurrencies that operate without central authorities or intermediaries.
+DeFi apps have several functions including lending, borrowing, and trading through smart contracts.
+This promotes open source financial systems where anyone with an internet connection can participate.
+
+#### DeFi concepts
+
+#### Differences CeFi and DeFi
+
+| **Aspect**           | **Centralized Finance (CeFi)**                                                                                 | **Decentralized Finance (DeFi)**                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Control**          | Managed by centralized entities (e.g., banks, financial institutions).                                         | Operates without a central authority; uses smart contracts on blockchain platforms like Ethereum.           |
+| **Custody**          | Users entrust their funds to the institution. The institution holds and manages the funds.                     | Users retain control over their funds through personal wallets and private keys.                            |
+| **Regulation**       | Heavily regulated by governmental and financial bodies. Compliance is required for operation.                  | Mostly operates in a regulatory grey area; less oversight, which can lead to both innovation and risk.      |
+| **Transparency**     | Limited transparency. Users do not have insight into the institution's internal processes or financial health. | High transparency. All transactions are recorded on a public ledger and are verifiable.                     |
+| **Intermediaries**   | Requires intermediaries for transactions, such as banks or payment processors.                                 | Eliminates intermediaries using blockchain technology; direct peer-to-peer transactions.                    |
+| **Accessibility**    | Requires going through KYC (Know Your Customer) processes. Accessibility can be limited based on geography.    | Generally accessible to anyone with an internet connection; no KYC required for most platforms.             |
+| **Interest Rates**   | Interest rates are set by the institutions based on various economic factors.                                  | Interest rates are determined by smart contracts and can be more dynamic, reflecting supply and demand.     |
+| **Innovation Speed** | Innovation can be slower due to regulatory and operational constraints.                                        | Rapid innovation is possible and common due to the open-source and permissionless nature of the technology. |
+| **User Experience**  | Often more user-friendly with customer support and established interfaces.                                     | Can be less intuitive for new users; typically requires more technical knowledge to navigate safely.        |
+| **Risk**             | Risks include institutional failure, mismanagement, and fraud. Regulatory protection is available.             | Risks include smart contract vulnerabilities, hacking incidents, and high volatility. Limited protection.   |
