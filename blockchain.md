@@ -538,6 +538,29 @@ This promotes open source financial systems where anyone with an internet connec
 
 #### DeFi concepts
 
+- Pool: Funds locked in a smart contract for trading or liquidity in DeFi apps.
+- AMM (Automated Market Maker): Decentralized protocol using formulas to price
+  assets based on liquidity pools instead of order books.
+- Farm: Known as yield farming, involving staking or lending crypto to earn
+  rewards.
+- Swap: Direct exchange of one cryptocurrency for another through smart contracts.
+- Dex (Decentralized Exchange): Operates without central authority, allowing direct
+  trades from user wallets.
+- Staking: Locking cryptocurrencies to receive rewards and support blockchain
+  operations.
+- Stablecoins: Cryptocurrencies designed to minimize price volatility, usually
+  pegged to stable assets.
+- Lending: Platforms that allow crypto lending in return for interest, managed by
+  smart contracts.
+- Borrowing: Taking loans in a decentralized manner on DeFi platforms, typically
+  requiring collateral.
+- Oracles: Agents providing external data to blockchains to enable smart contracts
+  to react to real-world events.
+- DAOs (Decentralized Autonomous Organizations): Organizations run autonomously
+  without central leadership, governed by code and community votes.
+- ICOs (Initial Coin Offerings): Fundraising mechanisms where new cryptocurrencies
+  are sold to raise project capital.
+
 #### Differences CeFi and DeFi
 
 | **Aspect**           | **Centralized Finance (CeFi)**                                                                                 | **Decentralized Finance (DeFi)**                                                                            |
