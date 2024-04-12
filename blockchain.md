@@ -45,6 +45,10 @@
       - [Tokens and Coins](#tokens-and-coins)
       - [Utility Token or Security](#utility-token-or-security)
       - [CBDC](#cbdc)
+  - [Part 8](#part-8)
+    - [DeFi](#defi)
+      - [DeFi concepts](#defi-concepts)
+      - [Differences CeFi and DeFi](#differences-cefi-and-defi)
 
 <!--toc:end-->
 
